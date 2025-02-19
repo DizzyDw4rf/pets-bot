@@ -1,8 +1,2 @@
 __pycache__/
-.cache/
-.pythonlibs/
-.upm/
-poetry.lock
-pyproject.toml
-keep_alive.py
 .env
